@@ -31,7 +31,7 @@ Currently, I am deepening my knowledge in Python, SQL, Databricks, PySpark, auto
 📅 2025 – 2026
 
 🎓 **Technical Diploma in Systems Development**  
-📍 SENAI "Luis Eulalio de Bueno Vidigal Filho" — São Paulo, Brazil  
+📍 SENAI — São Paulo, Brazil  
 📅 2023 – 2024
 
 ---
@@ -39,7 +39,7 @@ Currently, I am deepening my knowledge in Python, SQL, Databricks, PySpark, auto
 ## 🛠️ Technical Skills
 
 ### 📊 Data & Analytics
-[![Data Skills](https://skillicons.dev/icons?i=py,mysql)](https://skillicons.dev)
+[![Data Skills](https://skillicons.dev/icons?i=py,postgres,mysql)](https://skillicons.dev)
 
 ### ⚙️ Development & Version Control
 [![Dev Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
