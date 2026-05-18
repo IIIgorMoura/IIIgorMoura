@@ -40,19 +40,27 @@ Currently, I am deepening my knowledge in Python, SQL, Databricks, PySpark, auto
 
 ### 💻 Languages & Technologies
 
-( !! Work in Progress !! )
-<!-- [![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,js,html,css,git,github,markdown)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,js,html,css,git,github,markdown)](https://skillicons.dev)
+
+## 🛠️ Technical Skills
+
+### 💻 Languages & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,git,github,vscode,ts,js,html,css,azure,firebase,figma)](https://skillicons.dev)
 
 
 
 <!--
 
-### 🧰 Plataformas e Ferramentas
-* **Cloud & Big Data:** Databricks (PySpark / Spark SQL) | Microsoft Azure (Certificação AI-900)
-* **Automação:** n8n | Integrações de APIs & Webhooks
-* **Visualização:** Power BI | Streamlit
+### 🧰 Platforms & Tools
 
-## 📊 Estatísticas do GitHub
+* **Cloud & Big Data:** Databricks (PySpark / Spark SQL) | Microsoft Azure (AI-900 Certified)
+* **Automation & Architecture:** n8n | API & Webhook Integrations
+* **Data Visualization:** Power BI | Streamlit
+* **Management & Collaboration:** Notion | Miro | Trello | Agile Methodologies (Scrum Master)
+
+
+## 📊 GitHub Statistics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight" />
@@ -70,7 +78,7 @@ Analysis correlating industrial pollution and respiratory diseases in São Paulo
 🔗 [Repository](LINK)
 
 
-## 🎯 Projetos em Destaque
+## 🎯 Main Projects
 
 - 🌿 **[Análise de Dados Ambientais e Saúde Pública](LINK_DO_REPOSITORIO)** _Modelagem preditiva baseada em dados reais do terceiro setor, resultando em produção científica analítica._
 
@@ -78,7 +86,7 @@ Analysis correlating industrial pollution and respiratory diseases in São Paulo
 
 ---
 
-## 📫 Vamos nos conectar!
+## 📫 Let's Connect!
 
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/SEU_ID/)
 - ✉️ igor2007moura@gmail.com
