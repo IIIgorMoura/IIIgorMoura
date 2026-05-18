@@ -38,57 +38,23 @@ Currently, I am deepening my knowledge in Python, SQL, Databricks, PySpark, auto
 
 ## 🛠️ Technical Skills
 
-### 💻 Languages & Technologies
+### 📊 Data & Analytics
+[![Data Skills](https://skillicons.dev/icons?i=py,mysql)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,js,html,css,git,github,markdown)](https://skillicons.dev)
+### ⚙️ Development & Version Control
+[![Dev Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
-## 🛠️ Technical Skills
-
-### 💻 Languages & Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,git,github,vscode,ts,js,html,css,azure,firebase,figma)](https://skillicons.dev)
-
+### 🌐 Web Development
+[![Web Skills](https://skillicons.dev/icons?i=ts,js,react,html,css)](https://skillicons.dev)
 
 
-<!--
+## 📚 Currently Learning
 
-### 🧰 Platforms & Tools
-
-* **Cloud & Big Data:** Databricks (PySpark / Spark SQL) | Microsoft Azure (AI-900 Certified)
-* **Automation & Architecture:** n8n | API & Webhook Integrations
-* **Data Visualization:** Power BI | Streamlit
-* **Management & Collaboration:** Notion | Miro | Trello | Agile Methodologies (Scrum Master)
-
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🌎 Environmental & Public Health Data Analysis
-Analysis correlating industrial pollution and respiratory diseases in São Paulo municipalities.
-
-**Tech Stack:** Python, Pandas, Plotly, Streamlit
-
-🔗 [Repository](LINK)
+- Databricks
+- PySpark & Spark SQL
+- Data Engineering Concepts
+- Microsoft Azure
+- n8n Automation
+- Supabase
 
 
-## 🎯 Main Projects
-
-- 🌿 **[Análise de Dados Ambientais e Saúde Pública](LINK_DO_REPOSITORIO)** _Modelagem preditiva baseada em dados reais do terceiro setor, resultando em produção científica analítica._
-
-- 🤖 **[Pipelines de Automação com n8n e IA](LINK_DO_REPOSITORIO)** _Construção de fluxos inteligentes para eliminação de tarefas manuais e consumo de APIs integradas._
-
----
-
-## 📫 Let's Connect!
-
-- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/SEU_ID/)
-- ✉️ igor2007moura@gmail.com
-
--->
